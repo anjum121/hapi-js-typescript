@@ -1,0 +1,1 @@
+Hapi js with Typescript
